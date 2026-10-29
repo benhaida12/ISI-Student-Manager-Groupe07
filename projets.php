@@ -20,10 +20,16 @@ $projets = [
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Liste des projets</title>
 </head>
 <body>
+     <nav>
+  <a href="index.php">Accueil</a> |
+  <a href="etudiants.php">Étudiants</a> |
+  <a href="projets.php">Projets</a>
+</nav>
     <h1>Liste des projets</h1>
 
     <?php foreach ($projets as $projet): ?>
