@@ -1,0 +1,82 @@
+
+/* Style général */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f6f9;
+    color: #333;
+}
+
+/* Menu de navigation */
+nav {
+    background-color: #2c3e50;
+    padding: 15px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #3498db;
+}
+
+/* Titres */
+h1 {
+    color: #2c3e50;
+    text-align: center;
+}
+
+h2 {
+    color: #3498db;
+}
+
+/* Tableau des étudiants */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #3498db;
+    color: white;
+}
+
+tr:hover {
+    background-color: #eef5ff;
+}
+
+/* Projets */
+article {
+    background-color: white;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 5px;
+    border-left: 4px solid #3498db;
+}
+
+/* Adaptation aux petits écrans */
+@media (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+
+    nav a {
+        display: inline-block;
+        margin: 5px;
+    }
+}
