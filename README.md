@@ -11,10 +11,10 @@ d'une mini-application PHP en utilisant Git et GitHub.
 
 | Membre | Responsabilité | Fichier |
 |---|---|---|
-| Étudiant A | Chef de projet et accueil | index.php |
-| Étudiant B | Liste des étudiants | etudiants.php |
+| Étudiant A :BEN HAIDA khadija| Chef de projet et accueil | index.php |
+| Étudiant B :  | Liste des étudiants | etudiants.php |
 | Étudiant C | Liste des projets | projets.php |
-| Étudiant D | CSS et navigation | style.css |
+| Étudiant D : BOUITANE Sara | CSS et navigation | style.css |
 
 ## 3. Environnement de développement
 - PHP
@@ -22,8 +22,11 @@ d'une mini-application PHP en utilisant Git et GitHub.
 - GitHub
 - Visual Studio Code
 - SSH
+### 2. Responsabilité de l'étudiant A
+Créatio d'un dépôt public nommé ISI-Student-Manager-GroupeXX.
 
-### 2. Responsabilité de l'étudiant C
+
+### 3. Responsabilité de l'étudiant C
 
 - Membre : Étudiant C
 - Fonction : Développeur de la page des projets
