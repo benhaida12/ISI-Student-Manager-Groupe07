@@ -11,10 +11,12 @@ d'une mini-application PHP en utilisant Git et GitHub.
 
 | Membre | Responsabilité | Fichier |
 |---|---|---|
-| Étudiant A | Chef de projet et accueil | index.php |
-| Jamil Ilham| Liste des étudiants | etudiants.php |
-| EL Berkaoui Wiam | Liste des projets | projets.php |
-| Étudiant D | CSS et navigation | style.css |
+| Étudiant | Responsabilité | Fichier |
+|---|---|---|
+| Étudiant A : BEN HAIDA Khadija | Chef de projet et accueil | index.php |
+| Étudiant B : Jamil Ilham | Liste des étudiants | etudiants.php |
+| Étudiant C : EL Berkaoui Wiam | Liste des projets | projets.php |
+| Étudiant D : BOUITANE Sara | CSS et navigation | style.css |
 
 ## 3. Environnement de développement
 - PHP
@@ -72,6 +74,7 @@ J’ai vérifié l’historique des commits et des branches, puis l’affichage 
 
 
 ### 3. Responsabilité de l'étudiant C(EL Berkaoui Wiam)
+### 2. Responsabilité de l'étudiant C
 
 - Membre : Étudiant C
 - Fonction : Développeur de la page des projets
@@ -183,15 +186,3 @@ avec PHP, la création d'une branche personnelle,
 les commits, le push, les Pull Requests,
 la revue de code et la participation
 à un exercice de résolution des conflits.
-### Résultats obtenus
-
-À la fin de ce TP, nous avons réussi à mettre en place un environnement de développement collaboratif avec Git et GitHub.
-Les principaux résultats obtenus sont :
-Développement d'une mini-application PHP composée de trois pages principales : accueil, liste des étudiants et liste des projets.
-Répartition du travail entre les membres du groupe, chacun disposant de sa propre branche.
-Gestion des modifications à travers les commits et les commandes push et pull.
-Création et validation des Pull Requests avant leur fusion dans la branche principale main.
-Participation à la revue de code afin de vérifier les modifications proposées par les autres membres.
-Simulation et résolution d'un conflit Git entre deux branches.
-Vérification de l'historique des commits et du fonctionnement final de l'application.
-Le résultat final est une application fonctionnelle permettant d'afficher les étudiants et les projets, développée dans un environnement collaboratif avec Git et GitHub.
