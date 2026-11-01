@@ -26,7 +26,7 @@ d'une mini-application PHP en utilisant Git et GitHub.
 ## 4. Description du travail effectué :
 ### 4.1. Responsabilité de l'étudiant A(BEN HAIDA Khadija)
   #### 4.2.Création d’un dépôt public nommé ISI-Student-Manager-Groupe07 et invitation des autres membres du groupe
-  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/affich_parm.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/afich_parm.png)
 Rôle de user.name et user.email :
 user.name : nom de l’auteur enregistré dans chaque commit, pour savoir qui a fait la modification.
 user.email : adresse e-mail de l’auteur enregistrée dans chaque commit, pour l’identifier précisément et relier le commit à son compte GitHub.
@@ -55,9 +55,13 @@ HEAD : pointeur qui indique la branche et le commit sur lesquels on se trouve ac
  #### 4.7.Pull Requests et revue de code
  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/pull1.png)
  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/pull2.png)
+ 
   La Pull Request est commentée par l’étudiante B, puis fusionnée par lui :
+  
  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/mergeB.png)
+ 
 Revue de la Pull Request de l’étudiante D, avec résolution du conflit et fusion :
+
 ![ISI-Student-Manager-Groupe07](captures/etudiant-A/conflit1.png)
 ![ISI-Student-Manager-Groupe07](captures/etudiant-A/conflit2.png)
  #### 4.8.Création du fichier configuration.txt
