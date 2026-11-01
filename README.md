@@ -11,9 +11,11 @@ d'une mini-application PHP en utilisant Git et GitHub.
 
 | Membre | Responsabilité | Fichier |
 |---|---|---|
-| Étudiant A :BEN HAIDA khadija| Chef de projet et accueil | index.php |
-| Étudiant B :  | Liste des étudiants | etudiants.php |
-| Étudiant C | Liste des projets | projets.php |
+| Étudiant | Responsabilité | Fichier |
+|---|---|---|
+| Étudiant A : BEN HAIDA Khadija | Chef de projet et accueil | index.php |
+| Étudiant B : Jamil Ilham | Liste des étudiants | etudiants.php |
+| Étudiant C : EL Berkaoui Wiam | Liste des projets | projets.php |
 | Étudiant D : BOUITANE Sara | CSS et navigation | style.css |
 
 ## 3. Environnement de développement
@@ -22,11 +24,57 @@ d'une mini-application PHP en utilisant Git et GitHub.
 - GitHub
 - Visual Studio Code
 - SSH
-### 2. Responsabilité de l'étudiant A
-Créatio d'un dépôt public nommé ISI-Student-Manager-GroupeXX.
+### 2. Responsabilité de l'étudiant B(Ilham Jamil)
+- Membre : Jamil Ilham
+- Fonction : Développeur de la page des etudiant
+- Fichier principal : etudiants.php
+- Branche personnelle : feature/etudiants
+### Configuration de Git
+Vérification de l'installation etConfiguration du nom et l'adresse e-mail :
+![configGit](captures/etudiant-B/configName.png)
+### Configuration SSH
+préparation d’authentification SSH en générant une paire de clés Ed25519, puis en ajoutant la clé publique au compte GitHub
+![configSSH](captures/etudiant-B/ssh.png)
+### Clonage du dépôt commun
+![clonnage depot commun](captures/etudiant-B/clonnage.png)
+### Vérification du statut de main
+![status main](captures/etudiant-B/main4.png)
+origin désigne le dépôt distant ; main est la branche principale ; origin/main représente la branche distante suivie localement ; HEAD indique la position courante dans Git.
+### Création de branche etudiants
+![branche etudiants](captures/etudiant-B/branchEtu5.png)
+Cette branche permet de développer les fonctionnalités sans modifier directement main.
+### Développement de etudiants.php
+le fichier etudiants.php contient un tableau PHP de trois étudiants et une boucle qui affiche leurs informations dans un tableau HTML : nom, prénom et filière.
+![etudiants.php](captures/etudiant-B/etuPhp6.png)
+###  Ajout et commit
+![commit](captures/etudiant-B/commitEtu8.png)
+### Push de etudiant.php vers GitHub
+Publication de la branche :
+![push etudiants](captures/etudiant-B/push.png)
+### Pull Request et revue de code
+Création d'une Pull Request sur GitHub :
+- Branche source : feature/etudiants
+- Branche destination : main
+- Titre : Ajout de la liste des etudiants
+La Pull Request est examinée Wiam EL Berkaoui avant sa fusion dans main.
+![pull request](captures/etudiant-B/pullRest88.png)
+Revue de code
+-J ai participé à la revue de code de la Pull Request de chef de projet.
+![Revue de code](captures/etudiant-B/revueCode.png)
+### gestion de conflit
+deux branches ont modifié la même ligne du fichier configuration.txt :j'ai proposé « Version : 2.0 - Etudiant B » et wiam EL Berkaoui « Version : 3.0 - Etudiant C »
+![conflit](captures/etudiant-B/conflit9.png)
+le conflit apparaît lorsque Git ne peut pas fusionner automatiquement deux modifications concurrentes de la même partie d’un fichier. Il faut choisir une version cohérente, puis valider la résolution.
+Le conflit a été résolu en conservant une version commune :Version : 3.0 - Version collaborative
+![resoulution conflit](captures/etudiant-B/commitResolution2.png)
+### historique graphique et affichae final
+J’ai vérifié l’historique des commits et des branches, puis l’affichage final de la page des étudiants.
+![graphique](captures/etudiant-B/historiqueFinale.png)
+![afichage finale](captures/etudiant-B/afficageFinal.png)
 
 
-### 3. Responsabilité de l'étudiant C
+### 3. Responsabilité de l'étudiant C(EL Berkaoui Wiam)
+### 2. Responsabilité de l'étudiant C
 
 - Membre : Étudiant C
 - Fonction : Développeur de la page des projets
@@ -102,7 +150,7 @@ avant sa fusion dans main.
 ![Liste des projets](captures/etudiant-C/git11.png)
 
 ### 13. Revue de code
-L'étudiant C participe à la revue de code
+J ai participé à la revue de code
 de la Pull Request de l'étudiant B.
 Un commentaire technique pertinent est ajouté
 pour vérifier la qualité et la lisibilité du code.
