@@ -36,7 +36,7 @@ préparation d’authentification SSH en générant une paire de clés Ed25519, 
 ### Clonage du dépôt commun
 ![clonnage depot commun](captures/etudiant-B/clonnage.png)
 ### Vérification du statut de main
-![status main](captures/etudiant-B/main.png)
+![status main](captures/etudiant-B/main4.png)
 origin désigne le dépôt distant ; main est la branche principale ; origin/main représente la branche distante suivie localement ; HEAD indique la position courante dans Git.
 ### Création de branche etudiants
 ![branche etudiants](captures/etudiant-B/branchEtu5.png)
