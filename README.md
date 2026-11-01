@@ -25,7 +25,10 @@ d'une mini-application PHP en utilisant Git et GitHub.
 - SSH
 ## 4. Description du travail effectué :
 ### 1. Responsabilité de l'étudiant A(BEN HAIDA Khadija)
-  #### 1.1.Création d'un dépôt public nommé ISI-Student-Manager-Groupe07
+  #### 1.1.Création d’un dépôt public nommé ISI-Student-Manager-Groupe07 et invitation des autres membres du groupe
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/create_repo1.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/invite_groupe.png)
+  
  
 
 ### 2. Responsabilité de l'étudiant B(Ilham Jamil)
