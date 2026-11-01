@@ -12,7 +12,6 @@ d'une mini-application PHP en utilisant Git et GitHub.
 | Membre | Responsabilité | Fichier |
 |---|---|---|
 | Étudiant | Responsabilité | Fichier |
-|---|---|---|
 | Étudiant A : BEN HAIDA Khadija | Chef de projet et accueil | index.php |
 | Étudiant B : Jamil Ilham | Liste des étudiants | etudiants.php |
 | Étudiant C : EL Berkaoui Wiam | Liste des projets | projets.php |
@@ -24,6 +23,11 @@ d'une mini-application PHP en utilisant Git et GitHub.
 - GitHub
 - Visual Studio Code
 - SSH
+## 4. Description du travail effectué :
+### 1. Responsabilité de l'étudiant A(BEN HAIDA Khadija)
+  #### 1.1.Création d'un dépôt public nommé ISI-Student-Manager-Groupe07
+ 
+
 ### 2. Responsabilité de l'étudiant B(Ilham Jamil)
 - Membre : Jamil Ilham
 - Fonction : Développeur de la page des etudiant
