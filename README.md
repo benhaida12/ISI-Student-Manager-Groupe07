@@ -69,13 +69,7 @@ Revue de la Pull Request de l’étudiante D, avec résolution du conflit et fus
  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/resolution_conflit.png)
  Mise à jour depuis le main :
  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/miseajourmain.png)
-  #### 4.9.Affichage de l’historique graphique des commits et des branches
-  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h1.png)
-  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h2.png)
-  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h3.png)
-  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h4.png)
-  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h6.png)
-  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h7.png)
+
 ### 2. Responsabilité de l'étudiant B(Ilham Jamil)
 - Membre : Jamil Ilham
 - Fonction : Développeur de la page des etudiant
@@ -227,6 +221,7 @@ Mise à jour de main :
 
 Affichage de l'historique graphique :
 ![Liste des projets](captures/etudiant-C/git15.png)
+
 
 ### 16. Conclusion
 
