@@ -26,6 +26,7 @@ d'une mini-application PHP en utilisant Git et GitHub.
 ## 4. Description du travail effectué :
 ### 4.1. Responsabilité de l'étudiant A(BEN HAIDA Khadija)
   #### 4.2.Création d’un dépôt public nommé ISI-Student-Manager-Groupe07 et invitation des autres membres du groupe
+  
   ![ISI-Student-Manager-Groupe07](captures/etudiant-A/afich_parm.png)
 Rôle de user.name et user.email :
 user.name : nom de l’auteur enregistré dans chaque commit, pour savoir qui a fait la modification.
@@ -34,25 +35,35 @@ user.email : adresse e-mail de l’auteur enregistrée dans chaque commit, pour 
   ![ISI-Student-Manager-Groupe07](captures/etudiant-A/invite_groupe.png)
 
   #### 4.3.Configuration de l’authentification SSH avec une clé Ed25519 pour GitHub
+  
    ![ISI-Student-Manager-Groupe07](captures/etudiant-A/config_ssh_1.png)
    ![ISI-Student-Manager-Groupe07](captures/etudiant-A/config_ssh_2.png)
    ![ISI-Student-Manager-Groupe07](captures/etudiant-A/config_ssh_3.png)
    ![ISI-Student-Manager-Groupe07](captures/etudiant-A/config_ssh_4.png)
+   
   #### 4.4.Clonage du dépôt GitHub et le vérification de la configuration du dépôt cloné
+  
   ![ISI-Student-Manager-Groupe07](captures/etudiant-A/clonage.png)
   ![ISI-Student-Manager-Groupe07](captures/etudiant-A/clonage2.png)
+  
   ##### 4.4.1.Définition des notions clone, origin, main, origin/main et HEAD
+  
 clone : commande qui copie un dépôt distant sur ta machine, avec tous les fichiers et l’historique.
 origin : nom par défaut du dépôt distant d’où le dépôt a été cloné.
 main : nom de la branche principale du projet.
 origin/main : copie locale, en lecture seule, de la branche main du dépôt distant, telle qu’elle était à la dernière synchronisation.
 HEAD : pointeur qui indique la branche et le commit sur lesquels on se trouve actuellement.
+
   #### 4.5.Commit Initial
+  
   ![ISI-Student-Manager-Groupe07](captures/etudiant-A/creation_indexphp.png)
   ![ISI-Student-Manager-Groupe07](captures/etudiant-A/commit_initial.png)
   #### 4.6.Création de la branche  feature/accueil
+  
  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/barancheEa.png)
+ 
  #### 4.7.Pull Requests et revue de code
+ 
  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/pull1.png)
  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/pull2.png)
  
@@ -64,10 +75,14 @@ Revue de la Pull Request de l’étudiante D, avec résolution du conflit et fus
 
 ![ISI-Student-Manager-Groupe07](captures/etudiant-A/conflit1.png)
 ![ISI-Student-Manager-Groupe07](captures/etudiant-A/conflit2.png)
+
  #### 4.8.Création du fichier configuration.txt
+ 
  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/creation_fichier_config.png)
  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/resolution_conflit.png)
+ 
  Mise à jour depuis le main :
+ 
  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/miseajourmain.png)
 
 ### 2. Responsabilité de l'étudiant B(Ilham Jamil)
