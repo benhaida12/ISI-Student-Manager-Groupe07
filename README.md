@@ -76,34 +76,51 @@ Revue de la Pull Request de l’étudiante D, avec résolution du conflit et fus
   ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h4.png)
   ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h6.png)
   ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h7.png)
-### 2. Responsabilité de l'étudiant B(Ilham Jamil)
-- Membre : Jamil Ilham
-- Fonction : Développeur de la page des etudiant
-- Fichier principal : etudiants.php
-- Branche personnelle : feature/etudiants
-### Configuration de Git
+
+## 5. Travail réalisé par l'étudiant B — Jamil Ilham
+**Responsabilité :** Développement de la page des étudiants.
+
+**Fichier principal :** `etudiants.php`
+
+**Branche personnelle :** `feature/etudiants`
+
+### 5.1. Configuration de Git
+**Membre :** Jamil Ilham
 Vérification de l'installation etConfiguration du nom et l'adresse e-mail :
+
 ![configGit](captures/etudiant-B/configName.png)
-### Configuration SSH
+### 5.2. Configuration SSH
 préparation d’authentification SSH en générant une paire de clés Ed25519, puis en ajoutant la clé publique au compte GitHub
 ![configSSH](captures/etudiant-B/ssh.png)
-### Clonage du dépôt commun
+### 5.3. Clonage du dépôt commun
 ![clonnage depot commun](captures/etudiant-B/clonnage.png)
-### Vérification du statut de main
+### 5.4. Vérification du statut de main
+
 ![status main](captures/etudiant-B/main4.png)
-origin désigne le dépôt distant ; main est la branche principale ; origin/main représente la branche distante suivie localement ; HEAD indique la position courante dans Git.
-### Création de branche etudiants
+
+
+origin désigne le dépôt distant ;
+ main est la branche principale ; 
+ origin/main représente la branche distante suivie localement ;
+  HEAD indique la position courante dans Git.
+
+### 5.5. Création de branche etudiants
+
 ![branche etudiants](captures/etudiant-B/branchEtu5.png)
+
 Cette branche permet de développer les fonctionnalités sans modifier directement main.
-### Développement de etudiants.php
-le fichier etudiants.php contient un tableau PHP de trois étudiants et une boucle qui affiche leurs informations dans un tableau HTML : nom, prénom et filière.
+### 5.6. Développement de etudiants.php
+le fichier etudiants.php contient un tableau PHP de trois étudiants et une boucle qui affiche leurs 
+informations dans un tableau HTML : nom, prénom et filière.
+
 ![etudiants.php](captures/etudiant-B/etuPhp6.png)
-###  Ajout et commit
+
+###  5.7. Ajout et commit
 ![commit](captures/etudiant-B/commitEtu8.png)
-### Push de etudiant.php vers GitHub
+### 5.8. Push de etudiant.php vers GitHub
 Publication de la branche :
 ![push etudiants](captures/etudiant-B/push.png)
-### Pull Request et revue de code
+### 5.9. Pull Request et revue de code
 Création d'une Pull Request sur GitHub :
 - Branche source : feature/etudiants
 - Branche destination : main
@@ -113,15 +130,22 @@ La Pull Request est examinée Wiam EL Berkaoui avant sa fusion dans main.
 Revue de code
 -J ai participé à la revue de code de la Pull Request de chef de projet.
 ![Revue de code](captures/etudiant-B/revueCode.png)
-### gestion de conflit
-deux branches ont modifié la même ligne du fichier configuration.txt :j'ai proposé « Version : 2.0 - Etudiant B » et wiam EL Berkaoui « Version : 3.0 - Etudiant C »
+### 5.10. gestion de conflit
+deux branches ont modifié la même ligne du fichier configuration.txt :
+j'ai proposé « Version : 2.0 - Etudiant B » et wiam EL Berkaoui « Version : 3.0 - Etudiant C »
+
 ![conflit](captures/etudiant-B/conflit9.png)
-le conflit apparaît lorsque Git ne peut pas fusionner automatiquement deux modifications concurrentes de la même partie d’un fichier. Il faut choisir une version cohérente, puis valider la résolution.
+
+le conflit apparaît lorsque Git ne peut pas fusionner automatiquement deux modifications concurrentes 
+de la même partie d’un fichier. Il faut choisir une version cohérente, puis valider la résolution.
 Le conflit a été résolu en conservant une version commune :Version : 3.0 - Version collaborative
+
 ![resoulution conflit](captures/etudiant-B/commitResolution2.png)
-### historique graphique et affichae final
+
+### 5.11. historique graphique et affichae final
 J’ai vérifié l’historique des commits et des branches, puis l’affichage final de la page des étudiants.
 ![graphique](captures/etudiant-B/historiqueFinale.png)
+
 ![afichage finale](captures/etudiant-B/afficageFinal.png)
 
 
