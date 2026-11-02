@@ -251,7 +251,6 @@ Mise à jour de main :
 
 Affichage de l'historique graphique :
 ![Liste des projets](captures/etudiant-C/git15.png)
-
 ### 16. Conclusion
 
 Ce travail m'a permis de pratiquer la gestion
@@ -262,3 +261,79 @@ avec PHP, la création d'une branche personnelle,
 les commits, le push, les Pull Requests,
 la revue de code et la participation
 à un exercice de résolution des conflits.
+
+## 7. Travail réalisé par l'étudiant D — Bouitane Sara
+**Responsabilité :** Mise en forme CSS et navigation
+
+**Fichier principal :** `style.php`
+
+**Branche personnelle :** `feature/style`
+
+
+### 7.1. Configuration de Git
+**Membre :** Bouitane Sara
+Vérification de l'installation etConfiguration du nom et l'adresse e-mail :
+
+![configGit](captures/etudiant-D/configName.png)
+### 7.2. Configuration SSH
+préparation d’authentification SSH en générant une paire de clés Ed25519, puis en ajoutant la clé publique au compte GitHub
+![configSSH](captures/etudiant-D/ssh.png)
+### 7.3. Clonage du dépôt commun
+![clonnage depot commun](captures/etudiant-D/clonnage.png)
+### 7.4. Vérification du statut de main
+
+![status main](captures/etudiant-D/main.png)
+
+
+origin désigne le dépôt distant ;
+ main est la branche principale ; 
+ origin/main représente la branche distante suivie localement ;
+  HEAD indique la position courante dans Git.
+
+### 7.5. Création de branche style
+
+![branche style](captures/etudiant-D/branche.png)
+
+Cette branche permet de ajouter les styles pour tous les pages .php.
+### 7.6. Réalisation de style.css
+le fichier style.css contient le style CSS de trois fichiers.
+![style.css](captures/etudiant-D/CreeSt.png)
+![style.css](captures/etudiant-D/style.png)
+
+###  7.7. Ajout et commit Push de style.css vers GitHub
+![commit](captures/etudiant-D)
+![push etudiants](captures/etudiant-D/MR.png)
+### 7.8. Pull Request et revue de code
+Création d'une Pull Request sur GitHub :
+- Branche source : feature/style
+- Branche destination : main
+La Pull Request est examinée etudiant A avant sa fusion dans main.
+![pull request](captures/etudiant-D/pull.png)
+![pull request](captures/etudiant-D/PU.png)
+Revue de code
+-J ai participé à la revue de code de la Pull Request de etudiant c.
+![Revue de code](captures/etudiant-D)
+### 5.10. gestion de conflit
+deux branches ont modifié la même ligne du fichier configuration.txt :
+j'ai proposé « Version : 4.0 - Etudiant D » 
+![conflit](captures/etudiant-D)
+
+le conflit apparaît lorsque Git ne peut pas fusionner automatiquement.
+de la même partie d’un fichier. Il faut choisir une version cohérente, puis valider la résolution.
+Le conflit a été résolu en conservant une version commune :Version : 3.0 - Version collaborative
+
+![resoulution conflit](captures/etudiant-D)
+
+###     historique graphique et affichae final
+J’ai vérifié l’historique des commits et des branches, puis l’affichage final de la page des étudiants.
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h1.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h2.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h3.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h4.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h6.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h7.png)
+
+![acceuil](captures/etudiant-A/AC.png)
+![afichage finale](captures/etudiant-B/afficageFinal.png)
+![Liste des projets](captures/etudiant-C/git8.png)
+
