@@ -329,7 +329,7 @@ La Pull Request est examinée etudiant A avant sa fusion dans main.
 ![pull request](captures/etudiant-D/PU.png)
 Revue de code
 -J ai participé à la revue de code de la Pull Request de etudiant c.
-![Revue de code](captures/etudiant-D)
+![Revue de code](captures/etudiant-D/CMM.png)
 ### 7.9. gestion de conflit
 deux branches ont modifié la même ligne du fichier configuration.txt :
 j'ai proposé « Version : 4.0 - Etudiant D » 
