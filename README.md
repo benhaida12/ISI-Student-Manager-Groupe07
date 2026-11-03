@@ -333,16 +333,18 @@ Revue de code
 ### 7.9. gestion de conflit
 deux branches ont modifié la même ligne du fichier configuration.txt :
 j'ai proposé « Version : 4.0 - Etudiant D » 
-![conflit](captures/etudiant-D)
+![conflit](captures/etudiant-D/C1.png)
+![conflitA](captures/etudiant-D/C2.png)
+![conflitB](captures/etudiant-D/C3.png)
 
 le conflit apparaît lorsque Git ne peut pas fusionner automatiquement.
 de la même partie d’un fichier. Il faut choisir une version cohérente, puis valider la résolution.
 Le conflit a été résolu en conservant une version commune :Version : 3.0 - Version collaborative
 
-![resoulution conflit](captures/etudiant-D)
+![resoulution conflit](captures/etudiant-D/CR.png)
 
 ###     historique graphique et affichae final
-J’ai vérifié l’historique des commits et des branches, puis l’affichage final de la page des étudiants.
+On a vérifié l’historique des commits et des branches, puis l’affichage final de la page des étudiants.
   ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h1.png)
   ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h2.png)
   ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h3.png)
