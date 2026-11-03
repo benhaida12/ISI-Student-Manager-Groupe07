@@ -84,35 +84,58 @@ Revue de la Pull Request de l’étudiante D, avec résolution du conflit et fus
  Mise à jour depuis le main :
  
  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/miseajourmain.png)
+  #### 4.9.Affichage de l’historique graphique des commits et des branches
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h1.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h2.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h3.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h4.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h6.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h7.png)
 
-### 2. Responsabilité de l'étudiant B(Ilham Jamil)
-- Membre : Jamil Ilham
-- Fonction : Développeur de la page des etudiant
-- Fichier principal : etudiants.php
-- Branche personnelle : feature/etudiants
-### Configuration de Git
+## 5. Travail réalisé par l'étudiant B — Jamil Ilham
+**Responsabilité :** Développement de la page des étudiants.
+
+**Fichier principal :** `etudiants.php`
+
+**Branche personnelle :** `feature/etudiants`
+
+### 5.1. Configuration de Git
+**Membre :** Jamil Ilham
 Vérification de l'installation etConfiguration du nom et l'adresse e-mail :
+
 ![configGit](captures/etudiant-B/configName.png)
-### Configuration SSH
+### 5.2. Configuration SSH
 préparation d’authentification SSH en générant une paire de clés Ed25519, puis en ajoutant la clé publique au compte GitHub
 ![configSSH](captures/etudiant-B/ssh.png)
-### Clonage du dépôt commun
+### 5.3. Clonage du dépôt commun
 ![clonnage depot commun](captures/etudiant-B/clonnage.png)
-### Vérification du statut de main
+### 5.4. Vérification du statut de main
+
 ![status main](captures/etudiant-B/main4.png)
-origin désigne le dépôt distant ; main est la branche principale ; origin/main représente la branche distante suivie localement ; HEAD indique la position courante dans Git.
-### Création de branche etudiants
+
+
+origin désigne le dépôt distant ;
+ main est la branche principale ; 
+ origin/main représente la branche distante suivie localement ;
+  HEAD indique la position courante dans Git.
+
+### 5.5. Création de branche etudiants
+
 ![branche etudiants](captures/etudiant-B/branchEtu5.png)
+
 Cette branche permet de développer les fonctionnalités sans modifier directement main.
-### Développement de etudiants.php
-le fichier etudiants.php contient un tableau PHP de trois étudiants et une boucle qui affiche leurs informations dans un tableau HTML : nom, prénom et filière.
+### 5.6. Développement de etudiants.php
+le fichier etudiants.php contient un tableau PHP de trois étudiants et une boucle qui affiche leurs 
+informations dans un tableau HTML : nom, prénom et filière.
+
 ![etudiants.php](captures/etudiant-B/etuPhp6.png)
-###  Ajout et commit
+
+###  5.7. Ajout et commit
 ![commit](captures/etudiant-B/commitEtu8.png)
-### Push de etudiant.php vers GitHub
+### 5.8. Push de etudiant.php vers GitHub
 Publication de la branche :
 ![push etudiants](captures/etudiant-B/push.png)
-### Pull Request et revue de code
+### 5.9. Pull Request et revue de code
 Création d'une Pull Request sur GitHub :
 - Branche source : feature/etudiants
 - Branche destination : main
@@ -122,15 +145,22 @@ La Pull Request est examinée Wiam EL Berkaoui avant sa fusion dans main.
 Revue de code
 -J ai participé à la revue de code de la Pull Request de chef de projet.
 ![Revue de code](captures/etudiant-B/revueCode.png)
-### gestion de conflit
-deux branches ont modifié la même ligne du fichier configuration.txt :j'ai proposé « Version : 2.0 - Etudiant B » et wiam EL Berkaoui « Version : 3.0 - Etudiant C »
+### 5.10. gestion de conflit
+deux branches ont modifié la même ligne du fichier configuration.txt :
+j'ai proposé « Version : 2.0 - Etudiant B » et wiam EL Berkaoui « Version : 3.0 - Etudiant C »
+
 ![conflit](captures/etudiant-B/conflit9.png)
-le conflit apparaît lorsque Git ne peut pas fusionner automatiquement deux modifications concurrentes de la même partie d’un fichier. Il faut choisir une version cohérente, puis valider la résolution.
+
+le conflit apparaît lorsque Git ne peut pas fusionner automatiquement deux modifications concurrentes 
+de la même partie d’un fichier. Il faut choisir une version cohérente, puis valider la résolution.
 Le conflit a été résolu en conservant une version commune :Version : 3.0 - Version collaborative
+
 ![resoulution conflit](captures/etudiant-B/commitResolution2.png)
-### historique graphique et affichae final
+
+### 5.11. historique graphique et affichae final
 J’ai vérifié l’historique des commits et des branches, puis l’affichage final de la page des étudiants.
 ![graphique](captures/etudiant-B/historiqueFinale.png)
+
 ![afichage finale](captures/etudiant-B/afficageFinal.png)
 
 
@@ -233,7 +263,7 @@ La version collaborative finale est :
 ### 15. Vérification finale
 Mise à jour de main :
 ![Liste des projets](captures/etudiant-C/git14.png)
-
+a
 Affichage de l'historique graphique :
 ![Liste des projets](captures/etudiant-C/git15.png)
 
@@ -248,3 +278,79 @@ avec PHP, la création d'une branche personnelle,
 les commits, le push, les Pull Requests,
 la revue de code et la participation
 à un exercice de résolution des conflits.
+
+## 7. Travail réalisé par l'étudiant D — Bouitane Sara
+**Responsabilité :** Mise en forme CSS et navigation
+
+**Fichier principal :** `style.php`
+
+**Branche personnelle :** `feature/style`
+
+
+### 7.1. Configuration de Git
+**Membre :** Bouitane Sara
+Vérification de l'installation etConfiguration du nom et l'adresse e-mail :
+
+![configGit](captures/etudiant-D/configName.png)
+### 7.2. Configuration SSH
+préparation d’authentification SSH en générant une paire de clés Ed25519, puis en ajoutant la clé publique au compte GitHub
+![configSSH](captures/etudiant-D/ssh.png)
+### 7.3. Clonage du dépôt commun
+![clonnage depot commun](captures/etudiant-D/clonnage.png)
+### 7.4. Vérification du statut de main
+
+![status main](captures/etudiant-D/main.png)
+
+
+origin désigne le dépôt distant ;
+ main est la branche principale ; 
+ origin/main représente la branche distante suivie localement ;
+  HEAD indique la position courante dans Git.
+
+### 7.5. Création de branche style
+
+![branche style](captures/etudiant-D/branche.png)
+
+Cette branche permet de ajouter les styles pour tous les pages .php.
+### 7.6. Réalisation de style.css
+le fichier style.css contient le style CSS de trois fichiers.
+![style.css](captures/etudiant-D/CreeSt.png)
+![style.css](captures/etudiant-D/style.png)
+
+###  7.7. Ajout et commit Push de style.css vers GitHub
+![commit](captures/etudiant-D)
+![push etudiants](captures/etudiant-D/MR.png)
+### 7.8. Pull Request et revue de code
+Création d'une Pull Request sur GitHub :
+- Branche source : feature/style
+- Branche destination : main
+La Pull Request est examinée etudiant A avant sa fusion dans main.
+![pull request](captures/etudiant-D/pull.png)
+![pull request](captures/etudiant-D/PU.png)
+Revue de code
+-J ai participé à la revue de code de la Pull Request de etudiant c.
+![Revue de code](captures/etudiant-D)
+### 5.10. gestion de conflit
+deux branches ont modifié la même ligne du fichier configuration.txt :
+j'ai proposé « Version : 4.0 - Etudiant D » 
+![conflit](captures/etudiant-D)
+
+le conflit apparaît lorsque Git ne peut pas fusionner automatiquement.
+de la même partie d’un fichier. Il faut choisir une version cohérente, puis valider la résolution.
+Le conflit a été résolu en conservant une version commune :Version : 3.0 - Version collaborative
+
+![resoulution conflit](captures/etudiant-D)
+
+###     historique graphique et affichae final
+J’ai vérifié l’historique des commits et des branches, puis l’affichage final de la page des étudiants.
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h1.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h2.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h3.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h4.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h6.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h7.png)
+
+![acceuil](captures/etudiant-A/AC.png)
+![afichage finale](captures/etudiant-B/afficageFinal.png)
+![Liste des projets](captures/etudiant-C/git8.png)
+
