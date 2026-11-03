@@ -86,7 +86,7 @@ Revue de la Pull Request de l’étudiante D, avec résolution du conflit et fus
  
  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/miseajourmain.png)
 
- ![ISI-Student-Manager-Groupe07](captures/etudiant-A/miseajourmain.png)
+ ![ISI-Student-Manager-Groupe07](captures/etudiant-A/affichage_a.png.png)
  
   #### 4.9.Affichage de l’historique graphique des commits et des branches
   ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h1.png)
