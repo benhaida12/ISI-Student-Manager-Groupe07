@@ -332,8 +332,10 @@ Création d'une Pull Request sur GitHub :
 - Branche source : feature/style
 - Branche destination : main
 La Pull Request est examinée etudiant A avant sa fusion dans main.
+
 ![pull request](captures/etudiant-D/pull.png)
 ![pull request](captures/etudiant-D/PU.png)
+
 Revue de code
 -J ai participé à la revue de code de la Pull Request de etudiant c.
 ![Revue de code](captures/etudiant-D/CMM.png)
@@ -350,8 +352,8 @@ Le conflit a été résolu en conservant une version commune :Version : 3.0 - Ve
 
 ![resoulution conflit](captures/etudiant-D/CR.png)
 
-###     historique graphique et affichae final
-On a vérifié l’historique des commits et des branches, puis l’affichage final de la page des étudiants.
+### 7.10. historique graphique 
+J'ai vérifié l’historique des commits et des branches, puis l’affichage final de la page des étudiants.
   ![ISI-Student-Manager-Groupe07](captures/etudiant-D/G1.png)
   ![ISI-Student-Manager-Groupe07](captures/etudiant-D/G2.png)
   ![ISI-Student-Manager-Groupe07](captures/etudiant-D/G3.png)
