@@ -294,6 +294,7 @@ Vérification de l'installation etConfiguration du nom et l'adresse e-mail :
 ![configGit](captures/etudiant-D/configName.png)
 ### 7.2. Configuration SSH
 préparation d’authentification SSH en générant une paire de clés Ed25519, puis en ajoutant la clé publique au compte GitHub
+
 ![configSSH](captures/etudiant-D/ssh.png)
 ### 7.3. Clonage du dépôt commun
 ![clonnage depot commun](captures/etudiant-D/clonnage.png)
@@ -318,8 +319,9 @@ le fichier style.css contient le style CSS de trois fichiers.
 ![style.css](captures/etudiant-D/style.png)
 
 ###  7.7. Ajout et commit Push de style.css vers GitHub
-![commit](captures/etudiant-D)
+![commit](captures/etudiant-D/add.png)
 ![push etudiants](captures/etudiant-D/MR.png)
+![push](captures/etudiant-D/PU.png)
 ### 7.8. Pull Request et revue de code
 Création d'une Pull Request sur GitHub :
 - Branche source : feature/style
