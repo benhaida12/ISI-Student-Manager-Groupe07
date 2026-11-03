@@ -28,6 +28,7 @@ d'une mini-application PHP en utilisant Git et GitHub.
   #### 4.2.Création d’un dépôt public nommé ISI-Student-Manager-Groupe07 et invitation des autres membres du groupe
   
   ![ISI-Student-Manager-Groupe07](captures/etudiant-A/afich_parm.png)
+  
 Rôle de user.name et user.email :
 user.name : nom de l’auteur enregistré dans chaque commit, pour savoir qui a fait la modification.
 user.email : adresse e-mail de l’auteur enregistrée dans chaque commit, pour l’identifier précisément et relier le commit à son compte GitHub.
