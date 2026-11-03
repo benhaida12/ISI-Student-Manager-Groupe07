@@ -352,14 +352,11 @@ Le conflit a été résolu en conservant une version commune :Version : 3.0 - Ve
 
 ###     historique graphique et affichae final
 On a vérifié l’historique des commits et des branches, puis l’affichage final de la page des étudiants.
-  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h1.png)
-  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h2.png)
-  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h3.png)
-  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h4.png)
-  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h6.png)
-  ![ISI-Student-Manager-Groupe07](captures/etudiant-A/h7.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-D/G1.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-D/G2.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-D/G3.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-D/G4.png)
+  ![ISI-Student-Manager-Groupe07](captures/etudiant-D/G5.png)
 
-![acceuil](captures/etudiant-A/AC.png)
-![afichage finale](captures/etudiant-B/afficageFinal.png)
-![Liste des projets](captures/etudiant-C/git8.png)
+
 
