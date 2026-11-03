@@ -1,0 +1,26 @@
+* [33m18a36ba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/configuration-c[m[33m, [m[1;31morigin/feature/configuration-c[m[33m)[m feat: modifier la version par Etudiant C
+*   [33m938ce68[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Merge pull request #4 from benhaida12/feature/style
+[32m|[m[33m\[m  
+[32m|[m *   [33mf94869a[m Merge branch 'main' into feature/style
+[32m|[m [34m|[m[32m\[m  
+[32m|[m [34m|[m[32m/[m  
+[32m|[m[32m/[m[34m|[m   
+* [34m|[m   [33md75f73c[m Merge pull request #3 from benhaida12/feature/etudiants
+[36m|[m[1;31m\[m [34m\[m  
+[36m|[m * [34m|[m [33m4bdb50e[m Ajout de la liste des étudiants
+* [1;31m|[m [34m|[m   [33m4310473[m Merge pull request #2 from benhaida12/feature/projets
+[1;32m|[m[1;33m\[m [1;31m\[m [34m\[m  
+[1;32m|[m * [1;31m|[m [34m|[m [33mc5bf213[m[33m ([m[1;31morigin/feature/projets[m[33m, [m[1;32mfeature/projets[m[33m)[m feat: ajouter la liste des projets
+[1;32m|[m [1;31m|[m[1;31m/[m [34m/[m  
+* [1;31m|[m [34m|[m [33m3d35f79[m Ajout de configuration.txt
+[1;33m|[m [1;31m|[m * [33m743ae81[m Add CSS styling and update PHP pages
+[1;33m|[m [1;31m|[m[1;33m/[m  
+[1;33m|[m[1;33m/[m[1;31m|[m   
+* [1;31m|[m   [33m1173449[m Merge pull request #1 from benhaida12/feature/accueil
+[1;31m|[m[1;35m\[m [1;31m\[m  
+[1;31m|[m [1;35m|[m[1;31m/[m  
+[1;31m|[m[1;31m/[m[1;35m|[m   
+[1;31m|[m * [33m1ef6985[m Ajout de la navigation dans index.php
+[1;31m|[m[1;31m/[m  
+* [33m7f7c70f[m Bienvenue dans ISI Student Manager
+* [33md58a7c7[m Initial commit
