@@ -357,6 +357,7 @@ Le conflit a été résolu en conservant une version commune :Version : 3.0 - Ve
 
 ### 7.10. historique graphique 
 J'ai vérifié l’historique des commits et des branches.
+
   ![ISI-Student-Manager-Groupe07](captures/etudiant-D/G1.png)
   ![ISI-Student-Manager-Groupe07](captures/etudiant-D/G2.png)
   ![ISI-Student-Manager-Groupe07](captures/etudiant-D/G3.png)
